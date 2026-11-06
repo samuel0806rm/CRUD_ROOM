@@ -1,0 +1,22 @@
+# Salidas de compilación
+build/
+*.apk
+*.aab
+
+# Caché y archivos locales de Gradle / Kotlin
+.gradle/
+.kotlin/
+
+# Configuración local: contiene la ruta del Android SDK de cada equipo
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

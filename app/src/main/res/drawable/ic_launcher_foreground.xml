@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Símbolo de base de datos: tres discos apilados, centrados en el área segura del ícono. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32c-12.2,0 -22,3.6 -22,8s9.8,8 22,8 22,-3.6 22,-8 -9.8,-8 -22,-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,45v8c0,4.4 9.8,8 22,8s22,-3.6 22,-8v-8c0,4.4 -9.8,8 -22,8s-22,-3.6 -22,-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,58v10c0,4.4 9.8,8 22,8s22,-3.6 22,-8v-10c0,4.4 -9.8,8 -22,8s-22,-3.6 -22,-8z" />
+</vector>

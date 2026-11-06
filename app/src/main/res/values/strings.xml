@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrudRoom</string>
+
+    <string name="campo_titulo">Título</string>
+    <string name="campo_descripcion">Descripción</string>
+    <string name="error_titulo_vacio">El título no puede estar vacío</string>
+
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_actualizar">Actualizar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="boton_eliminar">Eliminar</string>
+
+    <string name="lista_vacia">No hay ítems registrados</string>
+    <string name="etiqueta_id">ID: %1$d</string>
+    <string name="accion_editar">Editar %1$s</string>
+    <string name="accion_eliminar">Eliminar %1$s</string>
+
+    <string name="dialogo_titulo">Eliminar ítem</string>
+    <string name="dialogo_mensaje">¿Seguro que deseas eliminar \"%1$s\"? Esta acción no se puede deshacer.</string>
+</resources>

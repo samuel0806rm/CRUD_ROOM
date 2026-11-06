@@ -1,0 +1,5 @@
+# Finales de línea fijos para que los scripts de Gradle funcionen en cualquier sistema operativo
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.png binary
